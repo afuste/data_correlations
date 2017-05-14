@@ -1,4 +1,4 @@
-###DATA CORRELATIONS - Personalized Machine Learning
+### DATA CORRELATIONS - Personalized Machine Learning
 
 The left panel graphs a correlation matrix (blue = -1, red = +1) and the right panel graphs a scatter plot for a selected cell in the correlation matrix. See it live [here](http://bl.ocks.org/d-miller/raw/bb1a126a836761758904/).
 
