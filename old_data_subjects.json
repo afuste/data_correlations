@@ -1,0 +1,565 @@
+{
+  "var": [
+      "Subject1",
+      "Subject2",
+      "Subject3",
+      "Subject4",
+      "Subject5",
+      "Subject6",
+      "Subject7",
+      "Subject8",
+      "Subject9",
+      "Subject10",
+      "Subject11",
+      "Subject12",
+      "Subject13",
+      "Subject14",
+      "Subject15",
+      "Subject16",
+      "Subject17",
+      "Subject18"
+  ],
+  "corr": [
+    [
+      1.000,0.162,0.048,-0.001,-0.024,-0.212,-0.144,-0.233,-0.343,0.107,0.141,-0.082,0.200,0.283,-0.172,-0.174,-0.045,-0.029
+    ],
+    [
+      0.162,1.000,-0.101,-0.244,0.242,0.040,-0.088,0.152,-0.048,-0.207,-0.118,0.177,0.156,0.263,-0.004,-0.148,0.508,-0.069
+    ],
+    [
+      0.048,-0.101,1.000,0.207,0.072,0.148,0.213,0.114,0.179,0.326,0.425,-0.161,-0.183,-0.136,-0.283,0.074,0.186,-0.091
+    ],
+    [
+      -0.001,-0.244,0.207,1.000,-0.255,0.186,-0.041,-0.106,0.048,0.220,0.392,-0.141,0.131,-0.150,-0.137,-0.070,-0.185,-0.050
+    ],
+    [
+      -0.024,0.242,0.072,-0.255,1.000,0.313,0.004,0.229,0.102,-0.111,-0.162,0.359,-0.377,-0.044,-0.112,0.111,0.321,-0.022
+
+    ],
+    [
+      -0.212,0.040,0.148,0.186,0.313,1.000,-0.031,-0.073,0.356,-0.069,0.101,0.209,-0.208,0.008,-0.030,0.048,0.324,-0.129
+
+    ],
+    [
+      -0.144,-0.088,0.213,-0.041,0.004,-0.031,1.000,0.150,-0.027,0.254,0.391,0.063,-0.239,-0.273,-0.007,-0.103,0.169,0.122
+    ],
+    [
+      -0.233,0.152,0.114,-0.106,0.229,-0.073,0.150,1.000,0.080,0.127,-0.016,0.302,-0.207,-0.116,0.056,0.156,0.238,-0.103
+    ],
+    [
+      -0.343,-0.048,0.179,0.048,0.102,0.356,-0.027,0.080,1.000,-0.020,-0.107,-0.023,-0.269,-0.142,0.071,0.204,0.386,-0.033
+    ],
+    [
+      0.107,-0.207,0.326,0.220,-0.111,-0.069,0.254,0.127,-0.020,1.000,0.407,0.065,-0.119,-0.327,-0.055,-0.050,-0.106,0.102
+    ],
+    [
+      0.141,-0.118,0.425,0.392,-0.162,0.101,0.391,-0.016,-0.107,0.407,1.000,-0.224,-0.138,-0.245,-0.226,-0.301,-0.001,0.092
+    ],
+    [
+      -0.082,0.177,-0.161,-0.141,0.359,0.209,0.063,0.302,-0.023,0.065,-0.224,1.000,-0.135,-0.095,-0.039,0.156,0.027,-0.095
+
+    ],
+    [
+      0.200,0.156,-0.183,0.131,-0.377,-0.208,-0.239,-0.207,-0.269,-0.119,-0.138,-0.135,1.000,0.200,-0.015,-0.116,-0.051,-0.093
+
+    ],
+    [
+      0.283,0.263,-0.136,-0.150,-0.044,0.008,-0.273,-0.116,-0.142,-0.327,-0.245,-0.095,0.200,1.000,0.093,-0.020,0.133,-0.195
+
+    ],
+    [
+      -0.172,-0.004,-0.283,-0.137,-0.112,-0.030,-0.007,0.056,0.071,-0.055,-0.226,-0.039,-0.015,0.093,1.000,0.092,0.018,0.198
+
+    ],
+    [
+      -0.174,-0.148,0.074,-0.070,0.111,0.048,-0.103,0.156,0.204,-0.050,-0.301,0.156,-0.116,-0.020,0.092,1.000,0.007,0.050
+
+    ],
+    [
+      -0.045,0.508,0.186,-0.185,0.321,0.324,0.169,0.238,0.386,-0.106,-0.001,0.027,-0.051,0.133,0.018,0.007,1.000,-0.181
+
+    ],
+    [
+      -0.029,-0.069,-0.091,-0.050,-0.022,-0.129,0.122,-0.103,-0.033,0.102,0.092,-0.095,-0.093,-0.195,0.198,0.050,-0.181,1.000
+    ]
+  ],
+  "points": [
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind1"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind2"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind3"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind4"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind5"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind6"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind7"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind8"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind9"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind10"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind11"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind12"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind13"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind14"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind15"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind16"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind17"
+    },
+    {
+      "Subject1": -0.0328,
+      "Subject2": 0.0782,
+      "Subject3": 6,
+      "Subject4": 3.5,
+      "Subject5": 5,
+      "Subject6": 6,
+      "Subject7": 5.5,
+      "Subject8": -0.0328,
+      "Subject9": 0.0782,
+      "Subject10": 6,
+      "Subject11": 3.5,
+      "Subject12": 5,
+      "Subject13": 6,
+      "Subject14": 5.5,
+      "Subject15": 3.5,
+      "Subject16": 5,
+      "Subject17": 6,
+      "Subject18": 5.5,
+      "group": "group1",
+      "id": "ind18"
+    }
+  ],
+  "minMax": {
+    "Subject1": [
+      -0.1928,
+      0.1489
+    ],
+    "Subject2": [
+      -0.0201,
+      0.2658
+    ],
+    "Subject3": [
+      2,
+      7
+    ],
+    "Subject4": [
+      2,
+      7
+    ],
+    "Subject5": [
+      2,
+      7
+    ],
+    "Subject6": [
+      2,
+      7
+    ],
+    "Subject7": [
+      2,
+      7
+    ],
+    "Subject8": [
+      2,
+      7
+    ],
+    "Subject9": [
+      2,
+      7
+    ],
+    "Subject10": [
+      2,
+      7
+    ],
+    "Subject11": [
+      2,
+      7
+    ],
+    "Subject12": [
+      2,
+      7
+    ],
+    "Subject13": [
+      2,
+      7
+    ],
+    "Subject14": [
+      2,
+      7
+    ],
+    "Subject15": [
+      2,
+      7
+    ],
+    "Subject16": [
+      2,
+      7
+    ],
+    "Subject17": [
+      2,
+      7
+    ],
+    "Subject18": [
+      2,
+      7
+    ],
+    "group": [
+      1
+    ],
+    "id": [
+      "ind1",
+      "ind18"
+    ]
+  }
+}

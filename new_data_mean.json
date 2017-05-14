@@ -1,0 +1,353 @@
+{
+  "var": [
+      "meanV",
+      "meanA",
+      "agreement",
+      "dominance",
+      "engagement",
+      "performance",
+      "rapport",
+      "gender"
+  ],
+  "corr": [
+    [
+      1,
+      0.572324073,
+      0.256490779,
+      0.55668512,
+      0.720806678,
+      0.600593868,
+      0.513352895,
+      -0.176759811
+    ],
+    [
+      0.572324073,
+      1,
+      0.259903421,
+      0.055892959,
+      0.36206469,
+      0.763384979,
+      0.198847096,
+      0.166987225
+    ],
+    [
+      0.256490779,
+      0.259903421,
+      1,
+      0.400758295,
+      0.311882144,
+      0.651924755,
+      0.587192879,
+      -0.240965799
+    ],
+    [
+      0.55668512,
+      0.055892959,
+      0.400758295,
+      1,
+      0.812236731,
+      0.324338346,
+      0.781921255,
+      -0.542326145
+    ],
+    [
+      0.720806678,
+      0.36206469,
+      0.311882144,
+      0.812236731,
+      1,
+      0.450216742,
+      0.760337168,
+      -0.400616808
+    ],
+    [
+      0.600593868,
+      0.763384979,
+      0.651924755,
+      0.324338346,
+      0.450216742,
+      1,
+      0.4944572,
+      -0.085435766
+    ],
+    [
+      0.513352895,
+      0.198847096,
+      0.587192879,
+      0.781921255,
+      0.760337168,
+      0.4944572,
+      1,
+      -0.439983338
+    ],
+    [
+      -0.176759811,
+      0.166987225,
+      -0.240965799,
+      -0.542326145,
+      -0.400616808,
+      -0.085435766,
+      -0.439983338,
+      1
+    ]
+  ],
+  "points": [
+    {
+      "meanV": -0.032754654,
+      "meanA": 0.078209126,
+      "agreement": 5,
+      "dominance": 4.5,
+      "engagement": 6,
+      "performance": 5,
+      "rapport": 5,
+      "gender": 1,
+      "group": "group1",
+      "id": "ind1"
+    },
+    {
+      "meanV": 0.046673193,
+      "meanA": 0.189599599,
+      "agreement": 5,
+      "dominance": 4,
+      "engagement": 6,
+      "performance": 6,
+      "rapport": 5,
+      "gender": 0,
+      "group": "group1",
+      "id": "ind2"
+    },
+    {
+      "meanV": 0.016411394,
+      "meanA": 0.079228694,
+      "agreement": 5.5,
+      "dominance": 5.5,
+      "engagement": 6,
+      "performance": 6,
+      "rapport": 6,
+      "gender": 0,
+      "group": "group1",
+      "id": "ind3"
+    },
+    {
+      "meanV": -0.192786309,
+      "meanA": -0.020108432,
+      "agreement": 4.5,
+      "dominance": 4,
+      "engagement": 4.5,
+      "performance": 3,
+      "rapport": 4.5,
+      "gender": 0,
+      "group": "group1",
+      "id": "ind4"
+    },
+    {
+      "meanV": -0.094667798,
+      "meanA": 0.100124182,
+      "agreement": 4,
+      "dominance": 3,
+      "engagement": 3.5,
+      "performance": 5,
+      "rapport": 4,
+      "gender": 1,
+      "group": "group1",
+      "id": "ind5"
+    },
+    {
+      "meanV": -0.033975581,
+      "meanA": 0.153724581,
+      "agreement": 5,
+      "dominance": 4,
+      "engagement": 5.5,
+      "performance": 5.5,
+      "rapport": 5,
+      "gender": 0,
+      "group": "group1",
+      "id": "ind6"
+    },
+    {
+      "meanV": -0.14178328,
+      "meanA": 0.038110095,
+      "agreement": 3,
+      "dominance": 2.5,
+      "engagement": 4,
+      "performance": 3,
+      "rapport": 3.5,
+      "gender": 1,
+      "group": "group1",
+      "id": "ind7"
+    },
+    {
+      "meanV": 0.081883378,
+      "meanA": 0.136334537,
+      "agreement": 6,
+      "dominance": 3.5,
+      "engagement": 5,
+      "performance": 6,
+      "rapport": 5.5,
+      "gender": 1,
+      "group": "group1",
+      "id": "ind8"
+    },
+    {
+      "meanV": -0.089767682,
+      "meanA": 0.089992807,
+      "agreement": 5,
+      "dominance": 4,
+      "engagement": 4,
+      "performance": 4.5,
+      "rapport": 4,
+      "gender": 1,
+      "group": "group1",
+      "id": "ind9"
+    },
+    {
+      "meanV": -0.062942919,
+      "meanA": 0.015027701,
+      "agreement": 5,
+      "dominance": 4,
+      "engagement": 5,
+      "performance": 4,
+      "rapport": 5,
+      "gender": 0,
+      "group": "group1",
+      "id": "ind10"
+    },
+    {
+      "meanV": 0.071240321,
+      "meanA": 0.122056523,
+      "agreement": 4.5,
+      "dominance": 5,
+      "engagement": 6.5,
+      "performance": 4.5,
+      "rapport": 6,
+      "gender": 1,
+      "group": "group1",
+      "id": "ind11"
+    },
+    {
+      "meanV": 0.148904707,
+      "meanA": 0.109126494,
+      "agreement": 4.5,
+      "dominance": 5,
+      "engagement": 6,
+      "performance": 5,
+      "rapport": 5,
+      "gender": 0,
+      "group": "group1",
+      "id": "ind12"
+    },
+    {
+      "meanV": 0.022734315,
+      "meanA": 0.0559071,
+      "agreement": 5,
+      "dominance": 5,
+      "engagement": 6.5,
+      "performance": 5,
+      "rapport": 5.5,
+      "gender": 0,
+      "group": "group1",
+      "id": "ind13"
+    },
+    {
+      "meanV": -0.118324141,
+      "meanA": 0.092816204,
+      "agreement": 5.5,
+      "dominance": 3,
+      "engagement": 4,
+      "performance": 5,
+      "rapport": 3.5,
+      "gender": 1,
+      "group": "group1",
+      "id": "ind14"
+    },
+    {
+      "meanV": 0.023932348,
+      "meanA": 0.130607083,
+      "agreement": 5,
+      "dominance": 4.5,
+      "engagement": 5.5,
+      "performance": 4.5,
+      "rapport": 5,
+      "gender": 0,
+      "group": "group1",
+      "id": "ind15"
+    },
+    {
+      "meanV": 0.047748264,
+      "meanA": 0.101647835,
+      "agreement": 3.5,
+      "dominance": 3.5,
+      "engagement": 5,
+      "performance": 4,
+      "rapport": 3,
+      "gender": 1,
+      "group": "group1",
+      "id": "ind16"
+    },
+    {
+      "meanV": 0.039825839,
+      "meanA": 0.265814525,
+      "agreement": 5,
+      "dominance": 4,
+      "engagement": 6,
+      "performance": 6.5,
+      "rapport": 5,
+      "gender": 1,
+      "group": "group1",
+      "id": "ind17"
+    },
+    {
+      "meanV": 0.074327331,
+      "meanA": 0.124422173,
+      "agreement": 5,
+      "dominance": 4.5,
+      "engagement": 5.5,
+      "performance": 6,
+      "rapport": 5,
+      "gender": 0,
+      "group": "group1",
+      "id": "ind18"
+    }
+  ],
+  "minMax": {
+    "meanV": [
+      -0.1928,
+      0.1489
+    ],
+    "meanA": [
+      -0.0201,
+      0.2658
+    ],
+    "agreement": [
+      2,
+      7
+    ],
+    "dominance": [
+      2,
+      7
+    ],
+    "engagement": [
+      2,
+      7
+    ],
+    "performance": [
+      2,
+      7
+    ],
+    "rapport": [
+      2,
+      7
+    ],
+    "gender": [
+      -1,
+      2
+    ],
+    "group": [
+      1
+    ],
+    "id": [
+      "ind1",
+      "ind18"
+    ]
+  }
+}
